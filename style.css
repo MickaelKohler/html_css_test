@@ -18,6 +18,8 @@ body {
 	font-family: Helvetica Neue;
 	color: #606060;
 	max-width: 1200px;
+	margin: auto;
+	padding: 20px;
 	text-align: justify;
 	background-image: url(img/brickwall.png);
 }
