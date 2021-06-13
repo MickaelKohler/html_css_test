@@ -1,12 +1,31 @@
-h1{
-	front-size: 30px;
+h1 {
+	font-size: 30px;
+	font-family: Helvetica, sans-serif;
 	text-align: center;
-	color: #FF9696;
+	color: lightcoral;
 }
 
-body{
-	front-size: 16px;
-	front-family: Helvetica, sans-serif;
-	color: #242424;
+h2 {
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	text-align: left;
+	color: lightcoral;
+}
+
+body {
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	color: #FFFAFA;
+	text-align: justify;
 	background-image: url(img/tweed.png);
 }
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 800px;
+  	height: auto;
+}
+
