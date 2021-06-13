@@ -1,0 +1,12 @@
+h1{
+	front-size: 30px;
+	text-align: center;
+	color: #FF9696;
+}
+
+body{
+	front-size: 16px;
+	front-family: Helvetica, sans-serif;
+	color: #242424;
+	background-image: url(img/tweed.png);
+}
